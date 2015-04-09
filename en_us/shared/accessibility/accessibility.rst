@@ -1,7 +1,7 @@
-.. _Guidelines for Creating Accessible Content:
+.. _Accessibility Best Practices Guidance:
 
 ###################################################
-Guidelines for Creating Accessible Content
+Accessibility Best Practices Guidance
 ###################################################
 
  

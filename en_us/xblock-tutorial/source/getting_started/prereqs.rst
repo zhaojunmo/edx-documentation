@@ -46,7 +46,7 @@ customize your own XBlock and run it in the XBlock workbench.
 To get started with Docker, you may use one of the following guides, depending
 on your operating system:
 
-    * `Docker for Mac`_
-    * `Docker for Windows`_
-    * `Docker for Linux`_
+* `Docker for Mac`_
+* `Docker for Windows`_
+* `Docker for Linux`_
 

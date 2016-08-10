@@ -376,6 +376,11 @@
 
 .. _W3C CSS color specification: https://www.w3.org/TR/css3-color/
 
+.. _Docker: https://www.docker.com
+.. _Docker for Mac: https://docs.docker.com/docker-for-mac/
+.. _Docker for Windows: https://docs.docker.com/docker-for-windows/
+.. _Docker for Linux: https://docs.docker.com/engine/getstarted/
+
 .. Release Notes
 
 

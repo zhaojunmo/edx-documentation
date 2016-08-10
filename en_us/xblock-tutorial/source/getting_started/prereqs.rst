@@ -25,7 +25,7 @@ instructions.
 Git
 ****
 
-EdX repositories, including XBlock and the XBlock SDK, are stored on GitHub. 
+EdX repositories, including XBlock and the XBlock SDK, are stored on GitHub.
 
 To build your own XBlock, and to deploy it later, you must use Git for source
 control.
@@ -34,24 +34,19 @@ If you do not have Git installed, or you are are unfamiliar with the tool, see
 the `GitHub Help`_.
 
 ************************
-A Virtual Environment
+Docker
 ************************
 
-It is recommended that you develop your XBlock using a Python virtual
-environment. A virtual environment is a tool to keep the dependencies required
-by different projects in separate places. 
+The easiest way to get started quickly with writing your own XBlock is to use
+`Docker`_. Docker offers a set of tools to build, run, and distribute
+applications in a self-contained fashion. EdX has published a base XBlock SDK
+Docker image that anyone can download and run. You can use this to easily
+customize your own XBlock and run it in the XBlock workbench.
 
-With a virtual environment you can manage the requirements of your XBlock in a
-separate location so they do not conflict with requirements of other Python
-applications you might need.
+To get started with Docker, you may use one of the following guides, depending
+on your operating system:
 
-The instructions and examples in this tutorial use `VirtualEnv`_ and
-`VirtualEnvWrapper`_ to build XBlocks. You can also use `PyEnv`_.
+    * `Docker for Mac`_
+    * `Docker for Windows`_
+    * `Docker for Linux`_
 
-After you have installed Python 2.7, follow the `VirtualEnv Installation`_
-instructions.
-
-For information on creating the virtual environment for your XBlock, see
-:ref:`Create and Activate the Virtual Environment`.
-
-.. include:: ../../../links/links.rst

@@ -1,8 +1,8 @@
 .. _Open edX Learner's Guide:
 
-################################################
-Open edX Learner's Guide: Eucalyptus Release
-################################################
+########################
+Open edX Learner's Guide
+########################
 
 .. toctree::
    :numbered:

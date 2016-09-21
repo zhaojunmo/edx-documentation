@@ -11,16 +11,6 @@ To build an XBlock, you must have the following tools on your computer.
  :depth: 1
 
 
-***********
-Python 2.7
-***********
-
-To run the a virtual environment and the XBlock SDK, and to build an XBlock,
-you must have Python 2.7 installed on your computer.
-
-`Download Python`_ for your operating system and follow the installation
-instructions.
-
 ****
 Git
 ****
@@ -50,3 +40,15 @@ on your operating system:
 * `Docker for Windows`_
 * `Docker for Linux`_
 
+***********
+Python 2.7
+***********
+
+In order to create your XBlock, you'll need to install Python.
+`Download Python`_ for your operating system and follow the installation
+instructions.
+
+Once you have Python installed, you'll want to install pip
+
+https://pip.pypa.io/en/stable/installing/
+http://cookiecutter.readthedocs.io/en/latest/installation.html

@@ -12,6 +12,10 @@ it in the XBlock SDK.
  :local:
  :depth: 1
 
+.. include:: ../reusable/install_pip.rst
+
+.. include:: ../reusable/install_cookiecutter.rst
+
 .. include:: ../reusable/create_xblock.rst
 
 .. include:: ../reusable/install_xblock.rst

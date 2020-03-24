@@ -201,6 +201,11 @@ elements of a multiple choice problem with OLX. For more information, see
 
 .. include:: ../../../shared/exercises_tools/Section_advanced_editor.rst
 
+.. note:: On editing and saving please make sure that multiple choice problem
+    is encapsulated inside **<problem>** tag. Problem would render correctly
+    in **Studio** but would fail when exported and then imported to a course.
+    For sample XML structure, see :ref:`Multiple Choice Problem XML`.
+
 .. _Use Feedback in a Multiple Choice Problem:
 
 ********************************************
